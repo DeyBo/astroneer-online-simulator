@@ -1,0 +1,32 @@
+{
+   "Small Battery": {
+      "Capacity (Units)": 32,
+      "Throughput (U/s)": 1,
+      "Active comsumption (U/s)": null
+   },
+   "Medium Battery": {
+      "Capacity (Units)": 512,
+      "Throughput (U/s)": 5,
+      "Active comsumption (U/s)": null
+   },
+   "Large Rover": {
+      "Capacity (Units)": 16,
+      "Throughput (U/s)": 1,
+      "Active comsumption (U/s)": 1
+   },
+   "Medium Rover": {
+      "Capacity (Units)": 8,
+      "Throughput (U/s)": 1,
+      "Active comsumption (U/s)": 0.5
+   },
+   "Buggy": {
+      "Capacity (Units)": 4,
+      "Throughput (U/s)": 1,
+      "Active comsumption (U/s)": 0.031
+   },
+   "Tractor": {
+      "Capacity (Units)": 4,
+      "Throughput (U/s)": 1,
+      "Active comsumption (U/s)": 0.075
+   }
+}

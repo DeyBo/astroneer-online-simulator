@@ -1,0 +1,72 @@
+{
+   "Small Printer": {
+      "Tier": "Small",
+      "Crafted from": null,
+      "⛰️ Natural": "Compound",
+      "⛰️ Natural 1": "",
+      "⛰️ Natural 2": "",
+      "🧱 Refined": "",
+      "☢️ Composite": "",
+      "Used to craft": "Medium Printer"
+   },
+   "Medium Printer": {
+      "Tier": "Medium",
+      "Crafted from": "Small Printer",
+      "⛰️ Natural": "Compound",
+      "⛰️ Natural 1": "Compound",
+      "⛰️ Natural 2": "",
+      "🧱 Refined": "",
+      "☢️ Composite": "",
+      "Used to craft": ["Atmospheric Condenser", "Chemistry Lab", "Soil Centrifuge", "Smelting Furnace", "Large Printer"]
+   },
+   "Large Printer": {
+      "Tier": "Large",
+      "Crafted from": "Medium Printer",
+      "⛰️ Natural": "Compound",
+      "⛰️ Natural 1": "Compound",
+      "⛰️ Natural 2": "Compound",
+      "🧱 Refined": "",
+      "☢️ Composite": "",
+      "Used to craft": ""
+   },
+   "Smelting Furnace": {
+      "Tier": "Large",
+      "Crafted from": "Medium Printer",
+      "⛰️ Natural": ["Resin", "Compound"],
+      "⛰️ Natural 1": "Resin",
+      "⛰️ Natural 2": "",
+      "🧱 Refined": "",
+      "☢️ Composite": "",
+      "Used to craft": ""
+   },
+   "Soil Centrifuge": {
+      "Tier": "Large",
+      "Crafted from": "Medium Printer",
+      "⛰️ Natural": "Compound",
+      "⛰️ Natural 1": "Compound",
+      "⛰️ Natural 2": "",
+      "🧱 Refined": "Aluminium",
+      "☢️ Composite": "",
+      "Used to craft": ""
+   },
+   "Chemistry Lab": {
+      "Tier": "Large",
+      "Crafted from": "Medium Printer",
+      "⛰️ Natural": "",
+      "⛰️ Natural 1": "",
+      "⛰️ Natural 2": "",
+      "🧱 Refined": ["Ceramic", "Tungsten", "Glass"],
+      "☢️ Composite": "",
+      "Used to craft": ""
+   },
+   "Atmospheric Condenser": {
+      "Tier": "Large",
+      "Crafted from": "Medium Printer",
+      "⛰️ Natural": "",
+      "⛰️ Natural 1": "",
+      "⛰️ Natural 2": "",
+      "🧱 Refined": ["Glass", "Iron"],
+      "☢️ Composite": "Plastic",
+      "Used to craft": ""
+   }
+}

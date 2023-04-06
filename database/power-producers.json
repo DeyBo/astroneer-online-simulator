@@ -1,0 +1,70 @@
+{
+   "Shelter": {
+      "Flow rate (U/s)": 1,
+      "Duration": "Indefinite"
+   },
+   "Field Shelter": {
+      "Flow rate (U/s)": 0.5,
+      "Duration": "Indefinite"
+   },
+   "Small Solar Panel": {
+      "Flow rate (U/s)": 1,
+      "Duration": "With Sunlight"
+   },
+   "Medium Solar Panel": {
+      "Flow rate (U/s)": 4,
+      "Duration": "With Sunlight"
+   },
+   "Large Solar Panel": {
+      "Flow rate (U/s)": 8,
+      "Duration": "With Sunlight"
+   },
+   "Solar Array": {
+      "Flow rate (U/s)": 14,
+      "Duration": "With Sunlight"
+   },
+   "Wrecked Solar Array": {
+      "Flow rate (U/s)": 64,
+      "Duration": "With Sunlight"
+   },
+   "Small Wind Turbine": {
+      "Flow rate (U/s)": 1.5,
+      "Duration": "While Windy"
+   },
+   "Medium Wind Turbine": {
+      "Flow rate (U/s)": 5,
+      "Duration": "While Windy"
+   },
+   "Large Wind Turbine": {
+      "Flow rate (U/s)": 10,
+      "Duration": "While Windy"
+   },
+   "XL Wind Turbine": {
+      "Flow rate (U/s)": 17,
+      "Duration": "While Windy"
+   },
+   "Small Generator": {
+      "Flow rate (U/s)": 2,
+      "Duration": "120 seconds"
+   },
+   "Medium Generator": {
+      "Flow rate (U/s)": 9,
+      "Duration": "120 seconds"
+   },
+   "QT-RTG": {
+      "Flow rate (U/s)": 1,
+      "Duration": "Indefinite"
+   },
+   "RTG": {
+      "Flow rate (U/s)": 4,
+      "Duration": "Indefinite"
+   },
+   "Power Cells": {
+      "Flow rate (U/s)": 1,
+      "Duration": "Until Depleted"
+   },
+   "Shuttles": {
+      "Flow rate (U/s)": 0.1,
+      "Duration": "Indefinite"
+   }
+}

@@ -1,0 +1,44 @@
+{
+   "Hydrogen": {
+      "Calidor": 50,
+      "Novus": 25,
+      "Glacio": null,
+      "Atrox": null,
+      "Used for composite resources": "Hydrazine"
+   },
+   "Argon": {
+      "Calidor": null,
+      "Novus": null,
+      "Glacio": 100,
+      "Atrox": null,
+      "Used for composite resources": "Steel"
+   },
+   "Methane": {
+      "Calidor": null,
+      "Novus": 75,
+      "Glacio": null,
+      "Atrox": 100,
+      "Used for composite resources": "Silicone"
+   },
+   "Nitrogen": {
+      "Calidor": null,
+      "Novus": null,
+      "Glacio": null,
+      "Atrox": 50,
+      "Used for composite resources": "Titanium Alloy"
+   },
+   "Sulfur": {
+      "Calidor": 100,
+      "Novus": null,
+      "Glacio": null,
+      "Atrox": 75,
+      "Used for composite resources": "Explosive Powder"
+   },
+   "Helium": {
+      "Calidor": null,
+      "Novus": null,
+      "Glacio": null,
+      "Atrox": 25,
+      "Used for composite resources": "Nanocarbon Alloy"
+   }
+}

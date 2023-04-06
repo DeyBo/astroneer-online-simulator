@@ -1,0 +1,130 @@
+{
+   "Soil": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": [],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Organic": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": ["Carbon"],
+      "Used for composite resources": ["Rubber"],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Compound": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": [],
+      "Used for composite resources": ["Plastic"],
+      "🛠️ Crafting": ["Smelting Furnace", "Small Printer", "Medium Printer", "Large Printer", "Soil Centrifuge"],
+      "🛠️ Crafting 1": ["Medium Printer", "Large Printer", "Soil Centrifuge"],
+      "🛠️ Crafting 2": ["Large Printer"]
+   },
+   "Resin": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": [],
+      "Used for composite resources": ["Silicone", "Rubber"],
+      "🛠️ Crafting": ["Smelting Furnace"],
+      "🛠️ Crafting 1": ["Smelting Furnace"],
+      "🛠️ Crafting 2": []
+   },
+   "Clay": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": ["Ceramic"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Quartz": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": ["Glass"],
+      "Used for composite resources": ["Silicone"],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Ammonium": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": [],
+      "Used for composite resources": ["Hydrazine"],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Graphite": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": [],
+      "Used for composite resources": ["Graphene"],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Laterite": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": ["Aluminium"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Astronium": {
+      "From planets": ["Sylva", "Desolo", "Calidor", "Vesania", "Novus", "Glacio"],
+      "Refined to": [],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Sphalerite": {
+      "From planets": ["Sylva", "Desolo"],
+      "Refined to": ["Zinc"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Wolframite": {
+      "From planets": ["Desolo", "Calidor"],
+      "Refined to": ["Tungsten"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Malachite": {
+      "From planets": ["Sylva", "Calidor"],
+      "Refined to": ["Copper"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Lithium": {
+      "From planets": ["Vesania", "Novus"],
+      "Refined to": [],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Hematite": {
+      "From planets": ["Novus", "Glacio"],
+      "Refined to": ["Iron"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   },
+   "Titanite": {
+      "From planets": ["Vesania", "Glacio"],
+      "Refined to": ["Titanium"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": [],
+      "🛠️ Crafting 1": [],
+      "🛠️ Crafting 2": []
+   }
+}

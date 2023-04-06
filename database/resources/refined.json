@@ -1,0 +1,56 @@
+{
+   "Carbon": {
+      "Refined from": ["Organic"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": ["Steel", "Explosive", "Tungsten", "Plastic"],
+      "🛠️ Crafting": []
+   },
+   "Ceramic": {
+      "Refined from": ["Clay"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": ["Chemistry Lab"]
+   },
+   "Glass": {
+      "Refined from": ["Quartz"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": ["Atmospheric Condenser", "Chemistry Lab"]
+   },
+   "Aluminium": {
+      "Refined from": ["Laterite"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": ["Aluminium"],
+      "🛠️ Crafting": ["Soil Centrifuge"]
+   },
+   "Zinc": {
+      "Refined from": ["Sphalerite"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": []
+   },
+   "Copper": {
+      "Refined from": ["Malachite"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": ["Aluminium"],
+      "🛠️ Crafting": []
+   },
+   "Tungsten": {
+      "Refined from": ["Wolframite"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": ["Tungsten"],
+      "🛠️ Crafting": ["Chemistry Lab"]
+   },
+   "Iron": {
+      "Refined from": ["Hematite"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": ["Steel"],
+      "🛠️ Crafting": ["Atmospheric Condenser"]
+   },
+   "Titanium": {
+      "Refined from": ["Titanite"],
+      "At module": ["Smelting Furnace"],
+      "Used for composite resources": ["Titanium"],
+      "🛠️ Crafting": []
+   }
+}

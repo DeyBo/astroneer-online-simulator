@@ -1,0 +1,23 @@
+{
+   "Sylva": {
+      "Natural Resources": ["Soil", "Organic", "Compound", "Resin", "Clay", "Quartz", "Ammonium", "Graphite", "Laterite", "Astronium", "Sphalerite", "Malachite"]
+   },
+   "Desolo": {
+      "Natural Resources": ["Soil", "Organic", "Compound", "Resin", "Clay", "Quartz", "Ammonium", "Graphite", "Laterite", "Astronium", "Sphalerite", "Wolframite"]
+   },
+   "Calidor": {
+      "Natural Resources": ["Soil", "Organic", "Compound", "Resin", "Clay", "Quartz", "Ammonium", "Graphite", "Laterite", "Astronium", "Wolframite", "Malachite"]
+   },
+   "Vesania": {
+      "Natural Resources": ["Soil", "Organic", "Compound", "Resin", "Clay", "Quartz", "Ammonium", "Graphite", "Laterite", "Astronium", "Lithium", "Titanite"]
+   },
+   "Novus": {
+      "Natural Resources": ["Soil", "Organic", "Compound", "Resin", "Clay", "Quartz", "Ammonium", "Graphite", "Laterite", "Astronium", "Lithium", "Hematite"]
+   },
+   "Glacio": {
+      "Natural Resources": ["Soil", "Organic", "Compound", "Resin", "Clay", "Quartz", "Ammonium", "Graphite", "Laterite", "Astronium", "Hematite", "Titanite"]
+   },
+   "Atrox": {
+      "Natural Resources": []
+   }
+}

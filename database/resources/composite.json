@@ -1,0 +1,98 @@
+{
+   "Rubber": {
+      "Natural Resources": ["Organic", "Resin"],
+      "Refined Resources": [],
+      "Composite Resources": [],
+      "Atmospheric Resources": [],
+      "Used for composite resources": [],
+      "🛠️ Crafting": []
+   },
+   "Plastic": {
+      "Natural Resources": ["Compound"],
+      "Refined Resources": ["Carbon"],
+      "Composite Resources": [],
+      "Atmospheric Resources": [],
+      "Used for composite resources": [],
+      "🛠️ Crafting": ["Atmospheric Condenser"]
+   },
+   "Aluminium Alloy": {
+      "Natural Resources": [],
+      "Refined Resources": ["Aluminium", "Copper"],
+      "Composite Resources": [],
+      "Atmospheric Resources": [],
+      "Used for composite resources": [],
+      "🛠️ Crafting": []
+   },
+   "Tungsten Carbide": {
+      "Natural Resources": [],
+      "Refined Resources": ["Tungsten", "Carbon"],
+      "Composite Resources": [],
+      "Atmospheric Resources": [],
+      "Used for composite resources": [],
+      "🛠️ Crafting": []
+   },
+   "Graphene": {
+      "Natural Resources": ["Graphite"],
+      "Refined Resources": [],
+      "Composite Resources": ["Hydrazine"],
+      "Atmospheric Resources": [],
+      "Used for composite resources": ["Diamond", "Titanium Alloy"],
+      "🛠️ Crafting": []
+   },
+   "Diamond": {
+      "Natural Resources": [],
+      "Refined Resources": [],
+      "Composite Resources": ["Graphene"],
+      "Atmospheric Resources": [],
+      "Used for composite resources": [],
+      "🛠️ Crafting": []
+   },
+   "Hydrazine": {
+      "Natural Resources": ["Ammonium"],
+      "Refined Resources": [],
+      "Composite Resources": [],
+      "Atmospheric Resources": ["Hydrogen"],
+      "Used for composite resources": ["Graphene"],
+      "🛠️ Crafting": []
+   },
+   "Silicone": {
+      "Natural Resources": ["Resin", "Quartz"],
+      "Refined Resources": [],
+      "Composite Resources": [],
+      "Atmospheric Resources": ["Methane"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": []
+   },
+   "Explosive Powder": {
+      "Natural Resources": [],
+      "Refined Resources": ["Carbon"],
+      "Composite Resources": [],
+      "Atmospheric Resources": ["Sulfur"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": []
+   },
+   "Steel": {
+      "Natural Resources": [],
+      "Refined Resources": ["Carbon", "Iron"],
+      "Composite Resources": [],
+      "Atmospheric Resources": ["Argon"],
+      "Used for composite resources": ["Nanocarbon Alloy"],
+      "🛠️ Crafting": []
+   },
+   "Titanium Alloy": {
+      "Natural Resources": [],
+      "Refined Resources": ["Titanium"],
+      "Composite Resources": ["Graphene"],
+      "Atmospheric Resources": ["Nitrogen"],
+      "Used for composite resources": ["Nanocarbon Alloy"],
+      "🛠️ Crafting": []
+   },
+   "Nanocarbon Alloy": {
+      "Natural Resources": [],
+      "Refined Resources": [],
+      "Composite Resources": ["Titanium Alloy", "Steel"],
+      "Atmospheric Resources": ["Helium"],
+      "Used for composite resources": [],
+      "🛠️ Crafting": []
+   }
+}
